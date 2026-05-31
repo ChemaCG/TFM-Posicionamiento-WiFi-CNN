@@ -1,6 +1,3 @@
-# TFM-Posicionamiento-WiFi-CNN
-Código fuente del Trabajo Final de Máster - Máster en Ciencia de Datos (UOC)
-
 # Posicionamiento Wi-Fi en Interiores: Arquitecturas CNN Jerárquicas y de Regresión frente a k-NN
 
 Este repositorio contiene el código fuente, los entornos de desarrollo y los notebooks interactivos correspondientes al **Trabajo Final de Máster (TFM)** para el *Máster Universitario en Ciencia de Datos* de la **Universitat Oberta de Catalunya (UOC)**.
