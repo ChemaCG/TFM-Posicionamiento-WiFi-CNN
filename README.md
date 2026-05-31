@@ -41,6 +41,8 @@ Los experimentos se han desarrollado en un entorno de **Python 3** utilizando la
 * **Pandas & NumPy**: Para la manipulación y transformación matricial de las huellas Wi-Fi.
 * **Matplotlib & Seaborn**: Para la extracción de gráficas y la Función de Distribución Acumulada (CDF).
 
+* Todos los experimentos, transformaciones de datos y entrenamientos de redes neuronales desarrollados en este trabajo se han ejecutado en un entorno basado en la nube de *Kaggle Note-books* utilizando aceleración por hardware *GPU T4 x2*.
+
 ---
 
 ## Nota sobre la Reproducibilidad
