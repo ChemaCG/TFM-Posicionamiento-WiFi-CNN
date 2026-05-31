@@ -48,3 +48,13 @@ Los experimentos se han desarrollado en un entorno de **Python 3** utilizando la
 ## Nota sobre la Reproducibilidad
 
 Para garantizar que todos los entrenamientos de las redes neuronales y las búsquedas de vecinos del k-NN arrojen exactamente los mismos resultados descritos en la memoria técnica, se ha establecido una **semilla estocástica global fija** al inicio del script tanto para el entorno de Python, NumPy y los inicializadores de pesos de TensorFlow.
+
+---
+
+## Visualización del Código
+
+Debido a las limitaciones de renderizado nativo de GitHub para archivos pesados, se recomienda utilizar los siguientes enlaces para visualizar el código directamente desde el navegador sin necesidad de descargar nada:
+
+* **[Haz clic aquí para visualizar el reporte HTML online](https://htmlpreview.github.io/?https://github.com/ChemaCG/TFM-Posicionamiento-WiFi-CNN/blob/main/Cases_Gomez_JoseMaria-TFM.html)**
+
+*Alternativamente, los archivos `.ipynb` y `.html` pueden ser descargados usando el botón "Download raw file" de GitHub y ejecutados en un entorno local.*
